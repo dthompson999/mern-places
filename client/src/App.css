@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  min-height: 1000px;
+  background-color: rgb(54, 54, 54);
+}
+
+.jumbotron {
+  background-image: url('./images/citymap.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+}
